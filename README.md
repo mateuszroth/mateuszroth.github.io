@@ -1,1 +1,1 @@
-# mateuszroth.github.io
+<meta http-equiv="refresh" content="0; url=https://mateuszroth.pl/" />
